@@ -13,7 +13,7 @@ Codes about `Loading data` and `Data preprocessing`, original data and processed
 Codes about `Prediction algoritm` and `Performance` and our models are kept in `models` folder.
 1. Run `Training part` in `Train and Ensemble Models.ipynb`, it can generate `.pkl` files of our models.
 2. Run `Ensemble model and Evaluation in validation dataset` part in `Train and Ensemble Models.ipynb`, it can load pre-trained models and get responding results and perform prediction on validation data and compute MAPE of the ensemble model.
-3. Run  Prediction on test data` part in `Train and Ensemble Models.ipynb`, it can generate `submission.csv`.
+3. Run  `Prediction on test data` part in `Train and Ensemble Models.ipynb`, it can generate `submission.csv`.
 
 ### Submission
 Our submission file is kept in `submission` folder named `submission.csv`.
